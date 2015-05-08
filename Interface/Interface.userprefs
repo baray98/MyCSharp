@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Interface/Interface.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface/Program.cs">
+    <Files>
+      <File FileName="Interface/Program.cs" Line="23" Column="51" />
+      <File FileName="Interface/MainMenu.cs" Line="27" Column="60" />
+      <File FileName="Interface/Properties/DoWork.cs" Line="5" Column="2" />
+      <File FileName="Interface/Properties/OneWork.cs" Line="29" Column="13" />
+      <File FileName="Interface/Properties/InterfaceDefs.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

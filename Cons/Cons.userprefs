@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Cons/Cons.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cons/Program.cs">
+    <Files>
+      <File FileName="Cons/Program.cs" Line="11" Column="39" />
+      <File FileName="Cons/BryanName.cs" Line="13" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
